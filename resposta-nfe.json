@@ -1,0 +1,498 @@
+{
+  "nfeProc": {
+    "NFe": {
+      "infNFe": {
+        "ide": {
+          "cUF": 42,
+          "cNF": 22926673,
+          "natOp": "VENDA DE PRODUCAO DE ESTABELECIMENTO",
+          "mod": 55,
+          "serie": 3,
+          "nNF": 3597114,
+          "dhEmi": "2025-11-11T07:36:50-03:00",
+          "dhSaiEnt": "2025-11-11T07:36:50-03:00",
+          "tpNF": 1,
+          "idDest": 2,
+          "cMunFG": 4208203,
+          "tpImp": 1,
+          "tpEmis": 1,
+          "cDV": 7,
+          "tpAmb": 1,
+          "finNFe": 1,
+          "indFinal": 0,
+          "indPres": 9,
+          "indIntermed": 0,
+          "procEmi": 0,
+          "verProc": "7.3.226"
+        },
+        "emit": {
+          "CNPJ": 75364570000755,
+          "xNome": "AMC TEXTIL LTDA",
+          "xFant": "ITAJAI",
+          "enderEmit": {
+            "xLgr": "RODOVIA ANTONIO HEIL, KM 5",
+            "nro": 4855,
+            "xBairro": "ITAIPAVA",
+            "cMun": 4208203,
+            "xMun": "ITAJAI",
+            "UF": "SC",
+            "CEP": 88316900,
+            "cPais": 1058,
+            "xPais": "BRASIL",
+            "fone": 4732473000
+          },
+          "IE": 255249187,
+          "IM": 289331,
+          "CRT": 3
+        },
+        "dest": {
+          "CNPJ": 84803774003166,
+          "xNome": "CASTELINI CO DE VEST LTDA",
+          "enderDest": {
+            "xLgr": "R BENJAMIN CONSTANT",
+            "nro": 1181,
+            "xBairro": "CENTRO",
+            "cMun": 5007208,
+            "xMun": "RIO BRILHANTE",
+            "UF": "MS",
+            "CEP": 79130000,
+            "cPais": 1058,
+            "xPais": "BRASIL",
+            "fone": 4436631569
+          },
+          "indIEDest": 1,
+          "IE": 289605687,
+          "email": "LJ031@CASTELINI.COM.BR"
+        },
+        "det": [
+          {
+            "prod": {
+              "cProd": "345301275.023.00003",
+              "cEAN": 7900299202167,
+              "xProd": "CAMISETA ESTAMPADA P AZUL OLYMPIC",
+              "NCM": 61091000,
+              "gCred": {
+                "cCredPresumido": "SC850043",
+                "pCredPresumido": 0,
+                "vCredPresumido": 0
+              },
+              "CFOP": 6101,
+              "uCom": "PC",
+              "qCom": 1,
+              "vUnCom": 75.51,
+              "vProd": 75.51,
+              "cEANTrib": 7900299202167,
+              "uTrib": "PC",
+              "qTrib": 1,
+              "vUnTrib": 75.51,
+              "indTot": 1
+            },
+            "imposto": {
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 5,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 75.51,
+                  "pICMS": 7,
+                  "vICMS": 5.29
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPINT": {
+                  "CST": 51
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 70.22,
+                  "pPIS": 1.65,
+                  "vPIS": 1.16
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 70.22,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 5.34
+                }
+              }
+            },
+            "@_nItem": "1"
+          },
+          {
+            "prod": {
+              "cProd": "345301275.026.00003",
+              "cEAN": 7900299202228,
+              "xProd": "CAMISETA ESTAMPADA G AZUL OLYMPIC",
+              "NCM": 61091000,
+              "gCred": {
+                "cCredPresumido": "SC850043",
+                "pCredPresumido": 0,
+                "vCredPresumido": 0
+              },
+              "CFOP": 6101,
+              "uCom": "PC",
+              "qCom": 1,
+              "vUnCom": 75.51,
+              "vProd": 75.51,
+              "cEANTrib": 7900299202228,
+              "uTrib": "PC",
+              "qTrib": 1,
+              "vUnTrib": 75.51,
+              "indTot": 1
+            },
+            "imposto": {
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 5,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 75.51,
+                  "pICMS": 7,
+                  "vICMS": 5.29
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPINT": {
+                  "CST": 51
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 70.22,
+                  "pPIS": 1.65,
+                  "vPIS": 1.16
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 70.22,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 5.34
+                }
+              }
+            },
+            "@_nItem": "2"
+          },
+          {
+            "prod": {
+              "cProd": "365301329.021.00001",
+              "cEAN": 7900299043333,
+              "xProd": "BLUSA JEANS PP INDIGO",
+              "NCM": 62063000,
+              "gCred": {
+                "cCredPresumido": "SC850043",
+                "pCredPresumido": 0,
+                "vCredPresumido": 0
+              },
+              "CFOP": 6101,
+              "uCom": "PC",
+              "qCom": 1,
+              "vUnCom": 133.28,
+              "vProd": 133.28,
+              "cEANTrib": 7900299043333,
+              "uTrib": "PC",
+              "qTrib": 1,
+              "vUnTrib": 133.28,
+              "indTot": 1
+            },
+            "imposto": {
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 5,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 133.28,
+                  "pICMS": 7,
+                  "vICMS": 9.33
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPINT": {
+                  "CST": 51
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 123.95,
+                  "pPIS": 1.65,
+                  "vPIS": 2.05
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 123.95,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 9.42
+                }
+              }
+            },
+            "@_nItem": "3"
+          },
+          {
+            "prod": {
+              "cProd": "445301520.023.00002",
+              "cEAN": 7900247764273,
+              "xProd": "VESTIDO CANELADO P VERDE CYBER LIME",
+              "NCM": 61044400,
+              "gCred": {
+                "cCredPresumido": "SC850043",
+                "pCredPresumido": 0,
+                "vCredPresumido": 0
+              },
+              "CFOP": 6101,
+              "uCom": "PC",
+              "qCom": 1,
+              "vUnCom": 87.23,
+              "vProd": 87.23,
+              "cEANTrib": 7900247764273,
+              "uTrib": "PC",
+              "qTrib": 1,
+              "vUnTrib": 87.23,
+              "indTot": 1
+            },
+            "imposto": {
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 5,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 87.23,
+                  "pICMS": 7,
+                  "vICMS": 6.11
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPINT": {
+                  "CST": 51
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 81.12,
+                  "pPIS": 1.65,
+                  "vPIS": 1.34
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 81.12,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 6.17
+                }
+              }
+            },
+            "@_nItem": "4"
+          },
+          {
+            "prod": {
+              "cProd": "445301526.023.00002",
+              "cEAN": 7900247847525,
+              "xProd": "VESTIDO CANELADO P MARROM FEIJO",
+              "NCM": 61044400,
+              "gCred": {
+                "cCredPresumido": "SC850043",
+                "pCredPresumido": 0,
+                "vCredPresumido": 0
+              },
+              "CFOP": 6101,
+              "uCom": "PC",
+              "qCom": 1,
+              "vUnCom": 151.07,
+              "vProd": 151.07,
+              "cEANTrib": 7900247847525,
+              "uTrib": "PC",
+              "qTrib": 1,
+              "vUnTrib": 151.07,
+              "indTot": 1
+            },
+            "imposto": {
+              "ICMS": {
+                "ICMS00": {
+                  "orig": 5,
+                  "CST": 0,
+                  "modBC": 3,
+                  "vBC": 151.07,
+                  "pICMS": 7,
+                  "vICMS": 10.57
+                }
+              },
+              "IPI": {
+                "cEnq": 999,
+                "IPINT": {
+                  "CST": 51
+                }
+              },
+              "PIS": {
+                "PISAliq": {
+                  "CST": 1,
+                  "vBC": 140.5,
+                  "pPIS": 1.65,
+                  "vPIS": 2.32
+                }
+              },
+              "COFINS": {
+                "COFINSAliq": {
+                  "CST": 1,
+                  "vBC": 140.5,
+                  "pCOFINS": 7.6,
+                  "vCOFINS": 10.68
+                }
+              }
+            },
+            "@_nItem": "5"
+          }
+        ],
+        "total": {
+          "ICMSTot": {
+            "vBC": 522.6,
+            "vICMS": 36.59,
+            "vICMSDeson": 0,
+            "vFCPUFDest": 0,
+            "vICMSUFDest": 0,
+            "vICMSUFRemet": 0,
+            "vFCP": 0,
+            "vBCST": 0,
+            "vST": 0,
+            "vFCPST": 0,
+            "vFCPSTRet": 0,
+            "qBCMonoRet": 0,
+            "vICMSMonoRet": 0,
+            "vProd": 522.6,
+            "vFrete": 0,
+            "vSeg": 0,
+            "vDesc": 0,
+            "vII": 0,
+            "vIPI": 0,
+            "vIPIDevol": 0,
+            "vPIS": 8.03,
+            "vCOFINS": 36.95,
+            "vOutro": 0,
+            "vNF": 522.6
+          },
+          "retTrib": ""
+        },
+        "transp": {
+          "modFrete": 0,
+          "transporta": {
+            "CNPJ": 48740351012767,
+            "xNome": "BRASPRESS TRANSPORTES URGENTES LTDA",
+            "IE": 256759847,
+            "xEnder": "RUA ANTONIO VICTOR GONCALVES, 250",
+            "xMun": "ITAJAI",
+            "UF": "SC"
+          },
+          "vol": {
+            "qVol": 1,
+            "esp": "VOLUMES",
+            "nVol": 11803084145055,
+            "pesoL": 1.11,
+            "pesoB": 1.76
+          }
+        },
+        "cobr": {
+          "fat": {
+            "nFat": 3597114,
+            "vOrig": 522.6,
+            "vDesc": 0,
+            "vLiq": 522.6
+          },
+          "dup": [
+            {
+              "nDup": 1,
+              "dVenc": "2025-12-09",
+              "vDup": 261.3
+            },
+            {
+              "nDup": 2,
+              "dVenc": "2026-02-03",
+              "vDup": 261.3
+            }
+          ]
+        },
+        "pag": {
+          "detPag": {
+            "indPag": 1,
+            "tPag": 15,
+            "vPag": 522.6
+          }
+        },
+        "infAdic": {
+          "infCpl": "DUPLICATAS EM ANEXO AO DANFE.CONFERIR AS MERCADORIAS NO ATO DA ENTREGA. NAO ACEITAMOS DEVOLUCAO POR FALTA. CAIXA:11803084 Resolucao Senado Federal n 13/12. PEDIDO EMPRESA: 2093694 REPRES: CL1694800 Total: 5,00"
+        },
+        "infRespTec": {
+          "CNPJ": 79500385000106,
+          "xContato": "Suporte",
+          "email": "suportenfe@consistem.com.br",
+          "fone": 4721071880
+        },
+        "@_versao": "4.00",
+        "@_Id": "NFe42251175364570000755550030035971141229266737"
+      },
+      "Signature": {
+        "SignedInfo": {
+          "CanonicalizationMethod": {
+            "@_Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+          },
+          "SignatureMethod": {
+            "@_Algorithm": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+          },
+          "Reference": {
+            "Transforms": {
+              "Transform": [
+                {
+                  "@_Algorithm": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+                },
+                {
+                  "@_Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                }
+              ]
+            },
+            "DigestMethod": {
+              "@_Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+            },
+            "DigestValue": "44lGU81FBtyWXpQU2pi/iuv05mM=",
+            "@_URI": "#NFe42251175364570000755550030035971141229266737"
+          }
+        },
+        "SignatureValue": "WCSuFfjJAb31uVCvzoKCnfW0hSC4deXh+sWqWfeKblPDoVP++JC5yk5SeMAG+a60c7mcVxhTQVWZf+utAckDLemvy3qpl6Jjafce2BZ2nNVvkeUrWgMnuImX8RotY2tFQpK2Bk2qoVZWvJ9PiSmAe9Ep8w8u5rMTpQ8HT+KKaSB6qY+8gif8BROELY2/O4x7S25+j0i3bv+pTAjlIn9fIFeC6dJUJ5oZqnBKlQxyx532RgLzccQ4Z0aYMIE0smdmSLggvMKYNBCAdB7B2RiSdKcPUuBvt5rEy7YTQUsXH86dtJnEHKEQm5xkJ/rkSrqEJKgJ9Q0KvISGWm1668BXxA==",
+        "KeyInfo": {
+          "X509Data": {
+            "X509Certificate": "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"
+          }
+        },
+        "@_xmlns": "http://www.w3.org/2000/09/xmldsig#"
+      },
+      "@_xmlns": "http://www.portalfiscal.inf.br/nfe"
+    },
+    "protNFe": {
+      "infProt": {
+        "tpAmb": 1,
+        "verAplic": "SVRS2511071706DR",
+        "chNFe": 4.225117536457e+43,
+        "dhRecbto": "2025-11-11T07:37:26-03:00",
+        "nProt": 242250448069965,
+        "digVal": "44lGU81FBtyWXpQU2pi/iuv05mM=",
+        "cStat": 100,
+        "xMotivo": "Autorizado o uso da NF-e"
+      },
+      "@_versao": "4.00",
+      "@_xmlns": "http://www.portalfiscal.inf.br/nfe"
+    },
+    "@_versao": "4.00",
+    "@_xmlns": "http://www.portalfiscal.inf.br/nfe"
+  }
+}
